@@ -1,5 +1,7 @@
 # Tableau_Portfolio
 
+Tableau Public link - https://public.tableau.com/app/profile/ryan.gisa/vizzes
+
 # 🎮 Video Game Sales Analysis Dashboard | Tableau
 
 ## Project Overview
