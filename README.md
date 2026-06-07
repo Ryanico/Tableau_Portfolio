@@ -186,6 +186,171 @@ The final dashboard demonstrates how Tableau can be used to communicate complex 
 
 ---
 
+# 📊 Video Game Sales Analysis Using Calculated Fields and Bins | Tableau
+
+## Project Overview
+
+This Tableau project demonstrates the use of **Calculated Fields** and **Bins** to transform raw video game sales data into meaningful analytical insights.
+
+The objective of the project was to explore how Tableau's data modeling capabilities can be used to create custom metrics, categorize continuous variables, and uncover hidden patterns within the dataset.
+
+Through the use of calculated fields and binning techniques, the project enhances data exploration and provides a deeper understanding of video game sales performance.
+
+---
+
+## Objectives
+
+The primary objectives of this project were to:
+
+* Practice creating Calculated Fields in Tableau
+* Learn how to group numerical data using Bins
+* Explore video game sales data
+* Perform categorical and quantitative analysis
+* Improve Tableau data preparation skills
+* Build a foundation for advanced dashboard development
+
+---
+
+## Dataset Information
+
+The dataset contains historical video game sales records and includes information such as:
+
+* Game Name
+* Platform
+* Release Year
+* Genre
+* Publisher
+* North America Sales
+* Europe Sales
+* Japan Sales
+* Other Region Sales
+* Global Sales
+
+The dataset provides a comprehensive view of video game performance across multiple markets and time periods.
+
+---
+
+## Tableau Concepts Demonstrated
+
+### Calculated Fields
+
+Calculated Fields were used to create custom analytical measures and derive additional insights from existing data.
+
+Examples of use cases include:
+
+* Creating custom metrics
+* Combining fields
+* Performing mathematical calculations
+* Deriving new business indicators
+* Creating data-driven classifications
+
+Calculated Fields help transform raw data into meaningful business information.
+
+---
+
+### Bins
+
+Bins were used to group continuous numerical values into defined ranges.
+
+Examples include:
+
+* Sales ranges
+* Year groupings
+* Revenue categories
+* Distribution analysis
+
+Binning allows large datasets to be summarized and analyzed more effectively.
+
+---
+
+## Analysis Performed
+
+### Sales Distribution Analysis
+
+The project examines how video game sales are distributed across different ranges.
+
+Key questions explored include:
+
+* How are games distributed across sales levels?
+* Are most games low-selling or high-selling?
+* What sales ranges contain the highest number of games?
+
+---
+
+### Year-Based Analysis
+
+The project groups release years into ranges using bins to identify:
+
+* Concentrations of game releases
+* Industry growth periods
+* Historical distribution patterns
+
+---
+
+### Custom Metric Analysis
+
+Calculated Fields were used to generate additional analytical views beyond the original dataset structure.
+
+This demonstrates how Tableau can be used to create business-focused metrics rather than relying solely on raw data fields.
+
+---
+
+## Skills Demonstrated
+
+This project showcases skills in:
+
+* Tableau Calculated Fields
+* Tableau Bins
+* Data Transformation
+* Data Exploration
+* Business Intelligence
+* Data Visualization
+* Analytical Thinking
+* Data Categorization
+
+---
+
+## Tools Used
+
+* Tableau Desktop
+* Video Game Sales Dataset
+* Calculated Fields
+* Binning Techniques
+
+---
+
+## Key Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* Creating custom calculations in Tableau
+* Transforming raw data into analytical insights
+* Grouping numerical data into meaningful categories
+* Understanding data distributions
+* Preparing data for visualization and reporting
+
+---
+
+## Business Value
+
+Calculated Fields and Bins are essential tools in business intelligence because they allow analysts to:
+
+* Create custom KPIs
+* Simplify large datasets
+* Improve reporting accuracy
+* Discover hidden trends
+* Enhance decision-making through better categorization
+
+---
+
+## Project Outcome
+
+This project successfully demonstrates how Tableau's Calculated Fields and Bins can be used to enrich data analysis and create more meaningful visualizations.
+
+The techniques used in this project form a critical foundation for advanced Tableau dashboards, business intelligence reporting, and data storytelling.
+
+---
+
 ## Author
 
-This project is part of my Data Analytics portfolio and demonstrates practical Tableau skills in data visualization, dashboard design, and business intelligence reporting.
+These projects are part of my Data Analytics portfolio and demonstrates practical Tableau skills in data visualization, dashboard design, and business intelligence reporting.
