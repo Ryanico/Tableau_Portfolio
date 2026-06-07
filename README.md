@@ -351,6 +351,200 @@ The techniques used in this project form a critical foundation for advanced Tabl
 
 ---
 
+# 🏠 Airbnb Market Analysis Dashboard | Tableau
+
+## Project Overview
+
+This Tableau project analyzes Airbnb listing data to uncover pricing patterns, revenue trends, and geographic differences across the market.
+
+The dashboard was designed to help stakeholders understand how Airbnb listings perform across different zip codes, bedroom configurations, and time periods. By transforming raw listing data into interactive visualizations, the project provides actionable insights for hosts, investors, and business analysts.
+
+---
+
+## Objectives
+
+The primary objectives of this project were to:
+
+- Analyze Airbnb pricing trends
+- Compare average prices across bedroom counts
+- Explore pricing differences by zip code
+- Evaluate annual revenue performance
+- Identify high-value market areas
+- Build an interactive business intelligence dashboard using Tableau
+
+---
+
+## Dataset Information
+
+The dataset contains Airbnb listing information, including:
+
+- Listing details
+- Property characteristics
+- Bedroom counts
+- Pricing information
+- Geographic location data
+- Revenue-related metrics
+
+The data was used to evaluate market performance and identify trends within the Airbnb ecosystem.
+
+---
+
+## Dashboard Components
+
+### 1. Average Price per Bedroom
+
+This visualization analyzes how Airbnb pricing changes based on the number of bedrooms available.
+
+Key questions addressed:
+
+- Do larger properties generate higher average prices?
+- How does pricing scale with bedroom count?
+- Which property sizes offer the highest value?
+
+---
+
+### 2. Price by Zip Code
+
+This analysis explores geographic pricing differences across zip codes.
+
+Key questions addressed:
+
+- Which zip codes have the highest average prices?
+- Which locations are more affordable?
+- How does location influence listing value?
+
+This visualization helps identify premium and budget-friendly markets.
+
+---
+
+### 3. Revenue Analysis
+
+This section examines revenue performance over time.
+
+Key questions addressed:
+
+- How does revenue change throughout the year?
+- Are there noticeable seasonal trends?
+- Which periods generate the highest revenue?
+
+The analysis provides insight into demand fluctuations and potential peak booking periods.
+
+---
+
+## Analysis Performed
+
+### Pricing Analysis
+
+The dashboard evaluates:
+
+- Average listing prices
+- Price distribution by bedroom count
+- Geographic pricing variations
+- Market segmentation by location
+
+---
+
+### Geographic Analysis
+
+The project investigates:
+
+- Pricing performance across zip codes
+- Regional differences in listing value
+- Location-based market opportunities
+
+---
+
+### Revenue Trend Analysis
+
+The dashboard tracks:
+
+- Revenue patterns over time
+- Potential seasonal demand
+- Performance fluctuations throughout the year
+
+---
+
+## Tableau Skills Demonstrated
+
+This project showcases:
+
+- Dashboard Design
+- Interactive Visualizations
+- Data Storytelling
+- Geographic Analysis
+- Trend Analysis
+- Business Intelligence Reporting
+- Data Exploration
+- KPI Visualization
+
+---
+
+## Dashboard Features
+
+The dashboard includes:
+
+- Price Analysis by Bedroom Count
+- Zip Code Pricing Comparison
+- Revenue Trend Visualization
+- Interactive Tableau Dashboard Layout
+- Business-Focused Reporting
+
+---
+
+## Key Insights Generated
+
+The dashboard enables users to:
+
+- Identify premium Airbnb markets
+- Compare property pricing by size
+- Understand geographic pricing trends
+- Monitor revenue performance
+- Support data-driven investment decisions
+
+---
+
+## Business Value
+
+This project helps stakeholders:
+
+- Evaluate Airbnb market opportunities
+- Identify profitable locations
+- Understand pricing behavior
+- Improve revenue planning
+- Support short-term rental investment decisions
+
+---
+
+## Tools Used
+
+- Tableau
+- Airbnb Listings Dataset
+- Data Visualization Techniques
+- Business Intelligence Concepts
+
+---
+
+## Project Outcome
+
+This project successfully transforms raw Airbnb listing data into a comprehensive business intelligence dashboard.
+
+The analysis provides valuable insights into pricing, location performance, and revenue trends, demonstrating how Tableau can be used to support decision-making in the short-term rental market.
+
+---
+
+## Skills Developed
+
+Through this project, I strengthened my skills in:
+
+- Tableau Dashboard Development
+- Data Visualization
+- Market Analysis
+- Revenue Analysis
+- Geographic Analytics
+- Business Intelligence
+- Data Storytelling
+
+---
 ## Author
 
 These projects are part of my Data Analytics portfolio and demonstrates practical Tableau skills in data visualization, dashboard design, and business intelligence reporting.
